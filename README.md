@@ -27,4 +27,4 @@ Use this space to upload:
 - Workshop photos, reports, and participant stories  
 
 ## 📞 Contact  
-Grace Ayuma – **kenya@example.com**  
+Grace Ayuma – **ayumagrace47@gmail.com, 0745780237 
