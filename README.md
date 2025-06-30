@@ -16,7 +16,8 @@ We aim to **close the digital divide** and unlock access to opportunities in the
 - **Week 5:** What is Bitcoin? (optional module)  
 - **Week 6:** Digital Opportunities & Online Jobs  
 - **Week 7:** Peer Mentorship & Community Action Projects  
-
+- **Week 11:** Graduation
+-  
 ## 📂 How to Use This Repository  
 Use this space to upload:
 - Lesson plans and slide decks  
